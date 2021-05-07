@@ -8,7 +8,8 @@ git clone https://github.com/milnepe/pico-basics-py.git
 ```
 
 ## Run examples in Thonny
-    1. Install MicroPython bootloader to Pico [http://www.raspberrypi.org/documentation/rp2040/getting-started/](http://www.raspberrypi.org/documentation/rp2040/getting-started/)
+    1. Install MicroPython bootloader to Pico
+[http://www.raspberrypi.org/documentation/rp2040/getting-started/](http://www.raspberrypi.org/documentation/rp2040/getting-started/)
     2. Open Thonny and set interpreter to MicroPython (Raspberry Pi Pico)
     3. Load example code eg. File -> pi/pico/pico-basics-py/pico_io/adc_read.py
     4. Run script - Run -> Run current script (F5)
