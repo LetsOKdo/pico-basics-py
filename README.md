@@ -4,7 +4,7 @@ Raspberry Pi Pico RP2040 basic examples in Python
 ## Clone repo to pico directory
 ```
 cd ~/pico
-git clone https://github.com/milnepe/pico-basics-py.git
+git clone https://github.com/LetsOKdo/pico-basics-py.git
 ```
 
 ## Run examples in Thonny
